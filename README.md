@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lutfia, but you can call me Fia</h1>
-<h3 align="center">I'm a recently graduated Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Lutfia</h1>
+<h3 align="center">I'm a recently-graduated Full Stack Web Developer</h3>
 <img align="right" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aisyafia&label=Profile%20views&color=0e75b6&style=flat" alt="aisyafia" /> </p>
