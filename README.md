@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fia</h1>
 <h3 align="center">Recently graduated full-stack developer</h3>
-<img align=“center” alt=“female-coder” width="400" src=“https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
+<img src=“https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aisyafia&label=Profile%20views&color=0e75b6&style=flat" alt="aisyafia" /> </p>
 
