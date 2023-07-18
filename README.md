@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aisyafia&label=Profile%20views&color=0e75b6&style=flat" alt="aisyafia" /> </p>
 
 ### :woman_technologist: About Me :
-- 🌱 I’m currently learning **Typescript and MUI**
+- 🌱 I’m currently learning **Typescript, MUI, and Nextjs**
 
 - 🇳🇱 I am based in Amsterdam, and I'm originally from Indonesia 🇮🇩
 
